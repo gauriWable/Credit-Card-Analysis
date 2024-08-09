@@ -20,21 +20,7 @@ Importing data to MYSQL database
 🔶 Create tables in MYSQL 
 🔶 import csv file into MYSQL
 
-📊 Credit card financial dashboard using Power BI:-
-▫ Developed an interactive dashboard using transaction and consumer data from a SQL database to prove real-time insights.
-▫ Streamlined data processing & analysis to monitor key performances metrics and trends.
-▫ Shared actionable insights with stakeholders based on dashboard findings to support-decision -making processes.
 
-
-
-➖ Revenue increased by 28.8%, 
-◽ Overview YTD: 
-➖ Overall revenue is 57M
-➖ Total interest is 8M 
-➖ Total transaction amount is 46M 
-➖ Male customers are contributing more in revenue 31M, female 26M
-➖ Blue & Silver credit card are contributing to 93% of overall transactions
-➖ TX, NY & CA is contributing to 68%
 
 
 Guided by : 
